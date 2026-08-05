@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
 #include <chrono>
+#include <iostream>
 using namespace std::chrono_literals; // this is required to run f(4s);
 
 #define endl '\n'
