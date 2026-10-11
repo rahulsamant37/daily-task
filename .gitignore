@@ -209,3 +209,14 @@ __marimo__/
 # cpp executable
 *.exe
 *.out
+b-min-matrices
+c-101
+taking-input-in-cli
+basic
+
+# test IO files
+input*.txt
+output*.txt
+
+# PDF documents
+*.pdf
