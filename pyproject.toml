@@ -2,6 +2,7 @@
 name = "daily-task"
 version = "0.1.0"
 description = "Daily engineering practice, experiments, and shared tooling"
+keywords = ["competitive-programming", "python", "cpp", "engineering"]
 readme = "readme.md"
 requires-python = ">=3.12"
 dependencies = [
