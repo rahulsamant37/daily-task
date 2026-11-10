@@ -2,7 +2,7 @@
 name = "daily-task"
 version = "0.1.0"
 description = "Add your description here"
-readme = "README.md"
+readme = "readme.md"
 requires-python = ">=3.12"
 dependencies = [
     "adam-atan2>=0.0.3",
