@@ -48,7 +48,7 @@ void setup_io() {
 
 int main() {
     setup_io();
-    int a, b, c, d;
+    ll a, b, c, d;
     cin >> a >> b >> c >> d;
     if (a + b - c == d ||
         a + b * c == d ||
